@@ -1,10 +1,9 @@
-# 0x00. Pagination
 <p>
 <img width="260" height="170" src="<p>
 <img width="260" height="170" src="https://www.flaticon.es/svg/static/icons/svg/1432/1432571.svg" align="right" >
 </p>
 
-# :colombia: 0x04. Pagination
+# :kenya: 0x00. Pagination
 
 - How to paginate a dataset with simple page and page_size parameters
 - How to paginate a dataset with hypermedia metadata
