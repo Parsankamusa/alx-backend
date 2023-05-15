@@ -1,11 +1,12 @@
 #!/usr/bin/env python3
- """Range of the page"""
 from typing import Tuple
 
-def index_range(page: int, page_size: int) -> Tuple[int, int]:
-   
 
-    """Args:
+def index_range(page: int, page_size: int) -> Tuple[int, int]:
+    """
+    Range of the page
+
+    Args:
         page: Current page
         page_size: Total size of the page
 
@@ -16,4 +17,3 @@ def index_range(page: int, page_size: int) -> Tuple[int, int]:
     final_size = start_size + page_size
 
     return start_size, final_size
-
