@@ -1,6 +1,6 @@
 <p>
 <img width="260" height="170" src="<p>
-<img width="260" height="170" src="https://www.flaticon.es/svg/static/icons/svg/1432/1432571.svg" align="right" >
+<img width="260" height="170" src="https://www.flaticon.com/edge/redirect?url=aHR0cHM6Ly9hZG9iZS5wcmYuaG4vY2xpY2svY2FtcmVmOjEwMTFscmNLSy9jcmVhdGl2ZXJlZjoxMTAxbDkwMTc2L3B1YnJlZjpHQTEuMi40NTQ0NjQyODUuMTY4NDE3NzQ0OS9kZXN0aW5hdGlvbjpodHRwcyUzQSUyRiUyRnN0b2NrLmFkb2JlLmNvbSUyRmVzJTJGaW1hZ2VzJTJGaWQlMkYyOTg0MTIzNjIlM0ZrJTNEcGFnaW5hdGlvbiUyNTIwcHl0aG9uJTI1MjBiYWNrZW5kJTI1MjBpY29ubw==&_ga=2.198393903.1245039239.1684177449-454464285.1684177449&_gl=1*1af9w19*fp_ga*NDU0NDY0Mjg1LjE2ODQxNzc0NDk.*fp_ga_1ZY8468CQB*MTY4NDE3NzQ1MC4xLjEuMTY4NDE3NzUwOS4xLjAuMA..*test_ga*NDU0NDY0Mjg1LjE2ODQxNzc0NDk.*test_ga_523JXC6VL7*MTY4NDE3NzQ1MC4xLjEuMTY4NDE3NzQ4Ny4yMy4wLjA." align="right" >
 </p>
 
 # :kenya: 0x00. Pagination
