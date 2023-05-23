@@ -20,22 +20,22 @@ msgstr ""
 
 #: templates/3-index.html:6 templates/4-index.html:6 templates/5-index.html:6
 #: templates/6-index.html:6 templates/7-index.html:6 templates/index.html:6
-msgid "Welcome to Holberton"
+msgid "home_tittle"
 msgstr ""
 
 #: templates/3-index.html:9 templates/4-index.html:10 templates/5-index.html:10
 #: templates/6-index.html:10 templates/7-index.html:10 templates/index.html:10
-msgid "Bonjour monde!"
+msgid "home_header"
 msgstr ""
 
 #: templates/5-index.html:12 templates/6-index.html:12
 #: templates/7-index.html:12 templates/index.html:12
-msgid "You are logged in as %Parsanka."
+msgid "logged_in_as"
 msgstr ""
 
 #: templates/5-index.html:14 templates/6-index.html:14
 #: templates/7-index.html:14 templates/index.html:14
-msgid "You are not logged in."
+msgid "not_logged_in"
 msgstr ""
 
 #: templates/index.html:17
